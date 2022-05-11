@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 
 
 UserAgent().chrome
-bot = telebot.TeleBot('5097235388:AAEFi8UCEO6zJebMONCO-68vmNH_vNB6_Aw')
+bot = telebot.TeleBot('')
 soup = ""
 
 ticker = list = ["SNAP", "A","AA","AAL","AAP","AAPL","ABBV","ABT","ADBE","ADI","ADM","ADP","ADS","ADSK","AEE","AES",
